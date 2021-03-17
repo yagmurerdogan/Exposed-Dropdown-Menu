@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dropdown Menu</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Turkish</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+        <item>German</item>
+    </string-array>
+</resources>
